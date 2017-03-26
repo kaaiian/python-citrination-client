@@ -1,0 +1,18 @@
+citrination_client.search.dataset.query package
+===============================================
+
+Submodules
+----------
+
+.. toctree::
+
+   citrination_client.search.dataset.query.dataset_multi_query
+   citrination_client.search.dataset.query.dataset_query
+
+Module contents
+---------------
+
+.. automodule:: citrination_client.search.dataset.query
+    :members:
+    :undoc-members:
+    :show-inheritance:

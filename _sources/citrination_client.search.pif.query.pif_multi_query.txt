@@ -1,0 +1,7 @@
+citrination_client.search.pif.query.pif_multi_query module
+==========================================================
+
+.. automodule:: citrination_client.search.pif.query.pif_multi_query
+    :members:
+    :undoc-members:
+    :show-inheritance:
